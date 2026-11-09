@@ -1,0 +1,22 @@
+{
+  "wheel_id": 832,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-157",
+  "project": "pool-retaining-wall-builders-brisbane-how-to-choose-50d9fcb0827",
+  "parent_t1_ref": "poolretainingwallsbrisbane-009",
+  "node_role": "buffer",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining wall builders brisbane how to choose",
+  "intended_url": "http://pool-retaining-wall-builders-brisbane-how-to-choose-50d9fcb0827.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b731a834c60e1d52",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/pool-retaining-wall-builders-brisbane-poolretainingwallsbrisbane-009/",
+      "anchor": "Pool Retaining Wall Builders Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
